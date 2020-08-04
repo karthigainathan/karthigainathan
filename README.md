@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**karthigainathan/karthigainathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### About
 
 ★'Ever since I was a child I am passionate about how robots work' and I found the reason behind is AI that has made to choose a career in Data Science by completed a Master's in Data Analytics and Bachelor in Computer Science.
 
@@ -50,3 +47,6 @@
 
 'Love to see the World through the Lens'
 𝒇𝒂𝒄𝒆𝒃𝒐𝒐𝒌.𝒄𝒐𝒎/𝒌𝒂𝒓𝒕𝒉𝒊𝒈𝒂𝒊𝒏𝒂𝒕𝒉𝒂𝒏𝒑𝒉𝒐𝒕𝒐𝒈𝒓𝒂𝒑𝒉𝒚 
+
+<!--
+**karthigainathan/karthigainathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
