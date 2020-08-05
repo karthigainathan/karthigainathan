@@ -43,9 +43,11 @@
 
 'Blog'
 
-[![58e91afdeb97430e81906504](https://user-images.githubusercontent.com/43938345/89387501-76b59080-d6fa-11ea-9650-471bd0557357.png)](https://www.linkedin.com/in/karthik-nathan/)
+[![linkedin-icon_square_128x128](https://user-images.githubusercontent.com/43938345/89396581-a36fa500-d706-11ea-830d-d6e912deef7e.png)
+](https://www.linkedin.com/in/karthik-nathan/)
 
-[Medium](https://medium.com/@karthigainathan)
+[![1*uLuWzCXfq2rt1t_TkuLB8A](https://user-images.githubusercontent.com/43938345/89396706-ca2ddb80-d706-11ea-968d-a1a2b1ae57b4.png)
+](https://medium.com/@karthigainathan)
 
 'Love to see the World through the Lens'
 [Photography](https://www.facebook.com/karthigainathanphotography)
