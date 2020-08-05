@@ -43,7 +43,7 @@
 
 'Blog'
 
-[LinkedIn](https://www.linkedin.com/in/karthik-nathan/)
+[![58e91afdeb97430e81906504](https://user-images.githubusercontent.com/43938345/89387501-76b59080-d6fa-11ea-9650-471bd0557357.png)](https://www.linkedin.com/in/karthik-nathan/)
 
 [Medium](https://medium.com/@karthigainathan)
 
