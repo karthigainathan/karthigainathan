@@ -41,14 +41,14 @@
 𝐎𝐩𝐞𝐧 𝐭𝐨 𝐧𝐞𝐰 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 𝐢𝐧 𝐄𝐮𝐫𝐨𝐩𝐞, 𝐀𝐮𝐬𝐭𝐫𝐚𝐥𝐢𝐚, 𝐂𝐚𝐧𝐚𝐝𝐚
 
 
-'Blog'
+Connect With Me
 
-[![linkedin](https://user-images.githubusercontent.com/43938345/89398537-2560cd80-d709-11ea-9ae9-841f1ff1e4f6.jpg)](https://www.linkedin.com/in/karthik-nathan/)
+[![58e91afdeb97430e81906504](https://user-images.githubusercontent.com/43938345/89399580-9654b500-d70a-11ea-82e1-5fb1da570606.png)](https://www.linkedin.com/in/karthik-nathan/)
 
-[![1*uLuWzCXfq2rt1t_TkuLB8A](https://user-images.githubusercontent.com/43938345/89396706-ca2ddb80-d706-11ea-968d-a1a2b1ae57b4.png)
+[![1J-PcIDrkewUmwrTZuJIIJA](https://user-images.githubusercontent.com/43938345/89399587-981e7880-d70a-11ea-8078-c899fb2836cb.jpg)
 ](https://medium.com/@karthigainathan)
 
 'Love to see the World through the Lens'
-[Photography](https://www.facebook.com/karthigainathanphotography)
+[![facebook_logos_PNG19748](https://user-images.githubusercontent.com/43938345/89399593-99e83c00-d70a-11ea-80da-dcc69ba1ee63.png)](https://www.facebook.com/karthigainathanphotography)
 <!--
 **karthigainathan/karthigainathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
