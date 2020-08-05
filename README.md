@@ -43,7 +43,7 @@
 
 'Blog'
 
-[![linkedin-icon_square_128x128](https://user-images.githubusercontent.com/43938345/89396581-a36fa500-d706-11ea-830d-d6e912deef7e.png)
+[![linkedin](https://user-images.githubusercontent.com/43938345/89397891-542a7400-d708-11ea-87b3-09621fdfb1cc.jpg))
 ](https://www.linkedin.com/in/karthik-nathan/)
 
 [![1*uLuWzCXfq2rt1t_TkuLB8A](https://user-images.githubusercontent.com/43938345/89396706-ca2ddb80-d706-11ea-968d-a1a2b1ae57b4.png)
