@@ -4,7 +4,7 @@
 
 ★'Ever since I was a child I am passionate about how robots work' and I found the reason behind is AI that has made to choose a career in Data Science by completed a Master's in Data Analytics and Bachelor in Computer Science.
 
-★Passionate, data-oriented, problem-solving, Data Scientist with 1.2 years of work experience. Experience in analyzing and interpreting structured and unstructured data to drive complex business solutions. Knowledge in digital media marketing and e-commerce management.
+★Data Analytics Graduate, with 1.5+ years of work experience as Data Scientist. Experience in analyzing and interpreting structured and unstructured data to drive complex business solutions. Knowledge in digital media marketing and e-commerce management.
 
 ★Presently, in full swing as a Data Scientist by helping global food & beverage brands stakeholders to drive more revenues and customer engagements by analyzing and interpreting actionable insights through BI tools.
 
