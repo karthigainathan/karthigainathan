@@ -1,6 +1,6 @@
 ## Hi👋
 
-## About Mysels
+## About Myself
 
 ★'Ever since I was a child I am passionate about how robots work' and I found the reason behind is AI that has made to choose a career in Data Science by completed a Master's in Data Analytics and Bachelor in Computer Science.
 
